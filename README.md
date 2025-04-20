@@ -60,7 +60,8 @@ plt.show()
 
 ## Output Waveform:![1745134415024184978444203491096](https://github.com/user-attachments/assets/8668553e-3a02-4b4a-b64c-6b26ca248071)
 
-## OUTPUT GRAPH:
+## OUTPUT GRAPH:![image](https://github.com/user-attachments/assets/80c6180e-4388-453e-8f6d-1716776ca5ba)
+
 
 
 
